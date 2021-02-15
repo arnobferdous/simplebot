@@ -1,6 +1,15 @@
 SimpleBot
 =========
 
+Issues
+=========
+- Update path for plugins in SimpleBot.pm in line number 162
+
+Usage
+=========
+To let the bot join in channel:
+ - /msg botname join #channel
+
 SimpleBot is an easy-to-install and easy-to-use general purpose IRC bot, written in Perl.  It is built on the awesome [Bot::BasicBot](http://search.cpan.org/dist/Bot-BasicBot/) framework.
 
 Features at a glance:
